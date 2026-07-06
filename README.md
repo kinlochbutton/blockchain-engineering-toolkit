@@ -1,22 +1,6 @@
-标准版
-Web3 & Blockchain 全栈开发工具集 | EVM、钱包、智能合约、链上分析、Gas 优化、签名验签、Merkle、DeFi/NFT
-
-
-技术风
-Blockchain Core Scripts | Ethereum | Solana | Smart Contracts | Cryptography | Web3 Analytics
-
-
-简洁风
-区块链开发常用代码库 | 持续更新 EVM / 合约 / 工具脚本
-
-
-英文专业风
-A collection of production-ready blockchain scripts for Ethereum, Solana, DeFi, NFTs, and Web3 infrastructure.
-
-
 ## 📁 项目文件说明
 
-本仓库包含10个区块链方向实战型代码文件，覆盖签名验签、链上数据解析、合约开发、Gas优化、跨链基础等核心场景，代码可直接运行、可直接提交GitHub，适合Web3开发者学习、复用及展示技术能力。
+本仓库包含10个区块链方向实战型代码文件，覆盖签名验签、链上数据解析、合约开发、Gas优化、跨链基础等核心场景。
 
 ### 1. 文件名：`eth_signature_verify.py`
 
